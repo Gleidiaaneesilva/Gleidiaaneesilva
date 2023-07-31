@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gleidiane+silva;I'm+27+years+old;I'm+from+Brazil;I+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -29,18 +29,16 @@
 
 ![image](https://github.com/Gleidiaaneesilva/Gleidiaaneesilva/assets/140973245/a2230dd7-5a33-4996-b82b-4293eb0b0207)
 ![image](https://github.com/Gleidiaaneesilva/Gleidiaaneesilva/assets/140973245/1340d558-1898-4901-b363-1262bafb216a)
-![image](https://github.com/Gleidiaaneesilva/Gleidiaaneesilva/assets/140973245/ec4a339c-8fe3-42cd-8713-7f44f45ce144)
 ![image](https://github.com/Gleidiaaneesilva/Gleidiaaneesilva/assets/140973245/0085f336-80e1-4489-ab6f-2d87679e7736)
 ![image](https://github.com/Gleidiaaneesilva/Gleidiaaneesilva/assets/140973245/44784fc5-4a24-4c98-8b6b-c4a61c166aa4)
 
 
 
 ### About me:
+. atualamente estou aprendendo flutter 💻
+. estou a procura da primeira oportunidade (junior)😊
 
-Sou uma entusiasta por tecnologia e apaixonada por cactos 🌵💚. Enquanto mergulha no mundo mobile, descubro novas possibilidades em cada linha de código e floresço com a magia do desenvolvimento. 
-🌸🚀 Quando não estou codificando, você me encontrará imersa em livros, buscando novos conhecimentos e inspirações para aprimorar minhas habilidades. 📚✨  
-🌵🌟 Meus primeiros passos na programação foram com HTML e CSS, e desde então, venho trilhando um caminho incrível. Atualmente, estudo na Academia do Flutter, mas já passei pela Alura e pelo DevClub, buscando sempre me desenvolver e aprender com diferentes perspectivas. 
-🌐🎓 Com um coração baiano, amante de acarajé e uma mente sempre faminta por conhecimento, estou constantemente me desafiando a crescer e florescer no universo da programação. 
+
 
 
 
