@@ -6,10 +6,10 @@
 Olá! Sou Guell, uma entusiasta estudante de iOS com um amor crescente pela criação de experiências incríveis para dispositivos Apple. 💻✨
 
 🌱 Habilidades em Desenvolvimento
-Linguagens: Swift 🚀
-Frameworks: UIKit, SwiftUI 📱
-Armazenamento de Dados: CoreData 🗄️
-Conectividade: URLSession 🌐
+Linguagens:
+Swift 🚀
+Frameworks: 
+UIKit, SwiftUI 📱
 
 🌍 Idiomas
 
