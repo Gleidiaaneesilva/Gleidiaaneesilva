@@ -10,6 +10,7 @@ Linguagens: Swift 🚀
 Frameworks: UIKit, SwiftUI 📱
 Armazenamento de Dados: CoreData 🗄️
 Conectividade: URLSession 🌐
+
 🌍 Idiomas
 Estou expandindo meu horizonte além do código, aprendendo inglês e espanhol. 🇬🇧🇪🇸 Vamos conectar e compartilhar ideias em diferentes línguas!
 
